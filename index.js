@@ -10,5 +10,7 @@ if(name==="sussn")
   console.log("the name is correct")
   
 }
-else
+else{
+  console.log("Expected The name to be Susan")
+}
 
