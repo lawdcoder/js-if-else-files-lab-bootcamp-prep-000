@@ -13,4 +13,5 @@ if(name==="sussn")
 else{
   console.log("Expected The name to be Susan")
 }
+var index
 
